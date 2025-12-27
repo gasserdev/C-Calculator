@@ -34,10 +34,10 @@ Copy code
 
 ## How to Run
 
-1. Save the code in a file called `calculator.c`.  
+1. Save the code in a file called `app.c`.  
 2. Compile using:  
    ```bash
-   gcc calculator.c -o calculator
+   gcc app.c -o app
 Run the program:
 
 bash
